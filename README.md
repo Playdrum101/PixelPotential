@@ -27,6 +27,9 @@ The project focuses on a binary classification task using a dataset of images re
 * **Image Handling:** Pillow (PIL)
 * **Plotting:** Matplotlib
 
+##  High-Level System Architecture Diagram
+![SystemArchitecture](https://github.com/user-attachments/assets/12a37985-d9bb-492c-b522-50877ca8bfed)
+
 ## Dataset
 
 * The project utilizes a dataset consisting of images categorized into 'Autistic' and 'Non_Autistic' classes.
