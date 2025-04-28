@@ -30,7 +30,6 @@ The project focuses on a binary classification task using a dataset of images re
 ## Dataset
 
 * The project utilizes a dataset consisting of images categorized into 'Autistic' and 'Non_Autistic' classes.
-* **Important Note:** [**Add information about your dataset source here.** If it's a private or sensitive dataset, state that. If it's publicly available, provide a link or citation. e.g., "The dataset used is sourced from [Dataset Name/Source/Link]..." or "The specific dataset used for this project is not publicly available due to privacy considerations."]
 * Images are preprocessed into 28x28 grayscale format for this experiment.
 
 ## Setup and Installation
@@ -55,7 +54,7 @@ The project focuses on a binary classification task using a dataset of images re
 
 ## Usage
 
-The primary workflow is contained within the Jupyter Notebook (`[YourNotebookName].ipynb`) or Python script (`[YourScriptName].py`).
+The primary workflow is contained within the Jupyter Notebook.
 
 1.  Open and run the notebook/script cell by cell or execute the script.
 2.  **Data Loading & Preprocessing:** The initial cells handle loading and preparing the data.
